@@ -1,0 +1,13 @@
+git clone /https://{YOUR_PERSONAL_TOKEN}@github.com/Sidney2022/alx-pre_course.git
+
+git checkot -b name_of _new_branch
+
+git status -s
+
+git add .
+
+git pull
+
+git commit -m "commit message"
+
+git push
